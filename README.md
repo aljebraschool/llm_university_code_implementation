@@ -51,4 +51,31 @@ For Jupyter Notebooks:For PyCharm and General Python Environment:
 ```bash
 pip install -r requirements.txt
 ```
+3. Run the Streamlit App Locally
+Navigate to the Streamlit app directory and run:
+
+```bash
+cd llm_streamlit_deploy
+streamlit run app.py
+```
+The app will be available in your browser at http://localhost:8501.
+
+4. Explore the Notebooks
+Open the notebooks using Jupyter or your IDE of choice (e.g., PyCharm with Jupyter plugin).
+
+# How to Use the Streamlit App
+1. Open the deployed app [here](https://llmuniversitycodeimplementation-dcyvcmrx4b6edkwuey3vtl.streamlit.app/).
+2. Enter an industry keyword (e.g., coding, education, healthcare).
+3. Adjust the number of ideas and creativity slider to generate tailored results.
+4. View the generated startup ideas in real-time!
+
+# Contributions
+Contributions to this project are welcome! Feel free to fork the repository and submit a pull request with your changes. If you encounter any issues, please open an issue in the repository.
+
+# Contact
+If you have any questions or suggestions, feel free to reach out:
+
+Repository Owner: Aljebraschool
+Email: [Ridwan Ibidunni](Ridwan.Ibidunni@um6p.ma)
+Enjoy exploring and experimenting with LLM-based applications!
 
