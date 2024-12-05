@@ -21,7 +21,7 @@ Below is a demonstration of the app's interface:
 
 notebooks/
 
--- Contains Jupyter notebooks that explain and implement various machine learning and natural language processing techniques. Notebooks include:
+### Contains Jupyter notebooks that explain and implement various machine learning and natural language processing techniques. Notebooks include:
 - LLM_University_Building_a_Chatbot.ipynb
 - LLM_University_Few_Shot_Classification.ipynb
 - LLM_University_Text_Clustering.ipynb
