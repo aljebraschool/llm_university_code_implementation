@@ -77,5 +77,6 @@ If you have any questions or suggestions, feel free to reach out:
 
 Repository Owner: Aljebraschool
 Email: [Ridwan.Ibidunni@um6p.ma]
+
 Enjoy exploring and experimenting with LLM-based applications!
 
