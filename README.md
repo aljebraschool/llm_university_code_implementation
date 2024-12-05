@@ -45,3 +45,10 @@ This folder contains the files required for deploying the Streamlit application:
 git clone https://github.com/aljebraschool/llm_university_code_implementation.git
 cd llm_university_code_implementation
 ```
+2. Install Dependencies
+
+For Jupyter Notebooks:For PyCharm and General Python Environment:
+```bash
+pip install -r requirements.txt
+```
+
