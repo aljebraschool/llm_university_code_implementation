@@ -29,3 +29,19 @@ Contains Jupyter notebooks that explain and implement various machine learning a
 - LLM_University_Text_Generation.ipynb
 - LLM_University_Parameters_for_controlling_output.ipynb
 
+These notebooks are a great resource for understanding fundamental concepts, experimentation, and hands-on practice.
+
+llm_streamlit_deploy/
+
+This folder contains the files required for deploying the Streamlit application:
+
+- app.py: The main Streamlit app script.
+- requirements.txt: Dependencies for running the app.
+
+# Setup Instructions
+
+1. Clone the Repository
+``` bash
+git clone https://github.com/aljebraschool/llm_university_code_implementation.git
+cd llm_university_code_implementation
+```
