@@ -12,7 +12,7 @@ App Features:
 - Adjust the number of ideas to generate (1–10).
 - Customize creativity levels to tailor idea generation.
 
-Below is a demonstration of the app's interface:
+## ** Below is a demonstration of the app's interface: **
 ![image](https://github.com/user-attachments/assets/a9ce87c6-1869-4c7a-8176-6ee29c7a2ba0)
 
 # Repository Structure
